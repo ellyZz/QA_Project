@@ -9,6 +9,7 @@
    ### Getting started
    ```
 git clone git@github.com:ellyZz/QA_Project.git
+cd QA_Project
 pip install -r requirements.txt 
 ```
    ### Running tests
